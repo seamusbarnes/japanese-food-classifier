@@ -1,4 +1,12 @@
 datasets/
 venv/
 __pycache__/
+
+# ignore image files
 *.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
